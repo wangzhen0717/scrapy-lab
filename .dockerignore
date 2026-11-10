@@ -1,0 +1,16 @@
+.venv/
+.git/
+.gitignore
+__pycache__/
+*.py[cod]
+*.pyo
+data/
+*.jsonl
+*.log
+.vscode/
+.idea/
+.DS_Store
+.env
+.env.*
+Dockerfile
+.dockerignore
